@@ -120,3 +120,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 | PATCH | `/api/tasks/:id` | Toggle task status |
 | DELETE | `/api/tasks/:id` | Delete a task |
 
+<img width="776" height="536" alt="image" src="https://github.com/user-attachments/assets/fa36682c-4495-4654-9af9-4e5f1e41e12e" />
+
+
