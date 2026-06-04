@@ -1,4 +1,4 @@
-# TaskFlow — MERN Task Manager
+# TaskFlow  🗂️ — MERN Task Manager
 
  TaskFlow — A secure, full-stack task manager built on the MERN stack with JWT authentication and real-time CRUD. Your tasks. Your flow. One app to rule them all.
 
